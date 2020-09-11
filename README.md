@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 - 2020/2021 Goals: Contribute more to Open Source projects and develop strong fundamentals in the field of Data Science/Statistics.
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-ruby.vercel.app/api/spotify" alt="Akshay Spotify Playing" width="350" />](https://open.spotify.com/user/akshayamrit)
+[<img src="https://novatorem.akshayamrit.vercel.app/api/spotify" alt="Akshay Spotify Playing" width="350" />](https://open.spotify.com/user/akshayamrit)
 <br />
 
 ### Languages and Tools:
