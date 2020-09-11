@@ -10,6 +10,7 @@ You can use the website to generate badges: https://shields.io/
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/akshayamrit)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/akshayamrit)
 &nbsp;
+
 ## I'm a Data Science/Machine Learning Enthusiast!
 
 - I’m currently working on my post graduation program in Data Science!
@@ -18,6 +19,9 @@ You can use the website to generate badges: https://shields.io/
   - Reading papers on ML/DL/AI.
 - I’m looking forward to collaborate with other content creators.
 - 2020/2021 Goals: Contribute more to Open Source projects and develop strong fundamentals in the field of Data Science/Statistics.
+
+### Spotify Playing 🎧
+[<img src="https://novatorem-ruby.vercel.app/api/spotify" alt="Akshay Spotify Playing" width="350" />](https://open.spotify.com/user/akshayamrit)
 <br />
 
 ### Languages and Tools:
