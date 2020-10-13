@@ -48,3 +48,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayamrit&hide=jupyter%20notebook,html,css,java&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
+### My Recent post on Medium!
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akshayamrit/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akshayamrit/0" alt="Recent Article 0">
